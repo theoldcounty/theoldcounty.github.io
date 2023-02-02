@@ -1,2 +1,1 @@
-gem "just-the-docs"
-theme: just-the-docs
+  remote_theme: MichaelCurrin/jekyll-theme-quickstart
